@@ -1,15 +1,16 @@
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=flat-square" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=flat-square" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000000&style=flat-square" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=ffffff&style=flat-square" alt="Next.js" />&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff&style=flat-square" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff&style=flat-square" alt="CSS3" />&nbsp;
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=ffffff&style=flat-square" alt="Tailwind CSS" />&nbsp;
-  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=ffffff&style=flat-square" alt="Sass" />&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=ffffff&style=flat-square" alt="Dart" />&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=ffffff&style=flat-square" alt="Flutter" />&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000000&style=flat-square" alt="Firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/-Android-34A853?logo=android&logoColor=ffffff&style=flat-square" alt="Android" />&nbsp;
+  <img src="https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=ffffff&style=flat-square" alt="iOS" />&nbsp;
+  <img src="https://img.shields.io/badge/-REST%20API-009688?style=flat-square" alt="REST API" />&nbsp;
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff&style=flat-square" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=flat-square" alt="GitHub" />
-</p>## Hi there 👋
+</p>
+
+## Hi there 👋  
+Flutter Mobile Developer 🚀
 
 
 <p>
