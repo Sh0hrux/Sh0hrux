@@ -14,19 +14,19 @@ Flutter Mobile Developer 🚀
 
 
 <p>
-  <a href="https://github.com/Abdumajidov2005" target="_blank">
+  <a href="https://github.com/Sh0hrux" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff&style=flat-square" alt="GitHub" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/otkirbek-abdumajidov-6308a434b" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff&style=flat-square" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://twitter.com/Otkirbek2005" target="_blank">
+  <a href="https://twitter.com/sh0hrux" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff&style=flat-square" alt="Twitter" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/abdumajidov__dev/" target="_blank">
+  <a href="https://www.instagram.com/sh0h_17/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=ffffff&style=flat-square" alt="Instagram" />
   </a>&nbsp;
-  <a href="https://t.me/fronten_00" target="_blank">
+  <a href="https://t.me/sh0h_17" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=ffffff&style=flat-square" alt="Telegram" />
   </a>
 </p>
